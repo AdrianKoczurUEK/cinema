@@ -1,42 +1,27 @@
-# Project Description
-> React application for online movie tickets booking.<br />
-To check out the app, visit [the page](https://dariaka.github.io/Aplikacja-kinowa/)
+> [!NOTE]
+> Resumake is currently undergoing a major v3 rewrite. For any thing related to the current app, please see [v2-(old)](https://github.com/saadq/resumake.io/tree/v2-(old)).
 
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Status](#status)
-* [Copyrights](#copyrights)
-* [Authors](#authors)
+# resumake.io
 
-## General info
-The main purpose of this application is to choose a movie and buy cinema tickets.
+A website for automatically generating elegant LaTeX resumes without the need to write any TeX code yourself.
 
-## Technologies
+![resumake](https://i.imgur.com/QUoFVmG.png)
 
-* HTML5
-* JavaScript
-* React
-* React Router
+Simply choose a template, fill in as much (or as little) info as you want, and then press <kbd>Make</kbd> to see your output. You can change your template at any point to see how your resume looks with different designs.
 
-## Setup
-### `npm start`
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+When you're happy with your result, you can download the resume as a PDF, TeX, or JSON document. The JSON output is compatible with [JSONResume](https://jsonresume.org).
 
-## Status
-Project is: _finished_
+## Credits
+Thanks very much to the creators of the LaTeX templates used in this website.
 
-## Copyrights
-External files used in the project:
-* User Interface - https://semantic-ui.com/
+* [Rensselaer Career Development Center](https://www.rpi.edu/dept/arc/training/latex/resumes/)
+* [Byungjin Park](https://github.com/posquit0)
+* [Scott Clark](https://github.com/sc932)
+* [Debarghya Das](https://github.com/deedy)
+* [Xavier Danaux](https://github.com/xdanaux)
+* [Ratul Saha](https://github.com/RatulSaha)
+* [Daniil Belyakov](https://github.com/dnl-blkv)
+* [Frits Wenneker](https://www.overleaf.com/latex/templates/your-new-cv/xqzhcmqkqrtw)
 
-## Authors
-Created by CodersCamp's members under the supervision of Małgorzata Bousoltane:
-[@Ievgeniia Abdulina](https://github.com/IevgeniiaAbdulina)
-[@Iwona](https://github.com/Crazysh8)
-[@Daria Kawalec](https://github.com/dariaka)
-[@Olimpia Kwiecień](https://github.com/kvviecien)
-[@Magdalena Szczech](https://github.com/magdalenaszczech)
+## License
+MIT © Saad Quadri
